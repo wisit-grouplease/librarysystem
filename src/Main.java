@@ -9,7 +9,7 @@ public class Main {
         Scanner myObj = new Scanner(System.in);  // Create a Scanner object
         Boolean isExit = Boolean.TRUE;
         String useMenu;
-       
+
         while (isExit){
             switch (menuSelect.size()) {
                 case 0:
